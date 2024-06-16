@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://clorgie.micro.blog/2024/06/16/having-a-father.html",
+				
+				"content_html": "<p>Having a father (or adopted father, or step-father) who tried would make for a much better Father&rsquo;s Day.</p>\n",
+				"content_text": "Having a father (or adopted father, or step-father) who tried would make for a much better Father's Day.\n",
+				"date_published": "2024-06-16T16:23:53-07:00",
+				"url": "https://mini.clorgie.me/2024/06/16/having-a-father.html"
+			},
+			{
+				"id": "http://clorgie.micro.blog/2024/06/06/noted-track-messy.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"ifttt-linklog-title\">🎵 Noted Track: <a href=\"https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2\">Messy</a></p><p class=\"spot-image\"><a href=\"https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2\"><img class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b273a0cb974834e04f46b63b99a8\" style=\"width: 300px; height: 300px;\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-artist\">Lola Young</span><br>Found on <span class=\"spot-album\"><em>Messy</span></em></p>\n",
+				"date_published": "2024-06-06T18:00:33-07:00",
+				"url": "https://mini.clorgie.me/2024/06/06/noted-track-messy.html",
+				"tags": ["Noted Tracks"]
+			},
+			{
 				"id": "http://clorgie.micro.blog/2024/06/05/noted-track-if.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
